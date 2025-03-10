@@ -1,0 +1,5 @@
+{
+    "resource_group_name" : "webapp-rg",
+    "location" : "East US",
+    "webapp_name" : "static-webapp"
+}
