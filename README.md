@@ -1,2 +1,18 @@
               **Azure DevOps & Terraform Project: Automating Static Web App Deployment**
 ![Untitled picture](https://github.com/user-attachments/assets/485bf0b2-c741-4c3f-8baa-492d75f9b6f4)
+
+![Azure Repo](https://github.com/user-attachments/assets/6b802e7d-0c11-44ae-ba9c-f97aff01035e)
+![Yaml1](https://github.com/user-attachments/assets/be140faa-872d-425f-93f1-11610ee693c2)
+![Library variable groups](https://github.com/user-attachments/assets/6d90c4dd-d05d-498d-ac52-58275885153e)
+![Terraforminit](https://github.com/user-attachments/assets/67998ad8-c5da-4277-9339-9542671604d9)
+![Terraformplan](https://github.com/user-attachments/assets/0c67abf8-3934-480a-b162-fe142c4f4112)
+![terraformapply](https://github.com/user-attachments/assets/d4d049ad-ec3f-4491-b430-329d26f43e92)
+![Resourcegroup](https://github.com/user-attachments/assets/1e35b566-7190-46cc-affc-63e4702431d6)
+![storageaccount](https://github.com/user-attachments/assets/e485064e-8cd8-47a5-b0af-5e4193d92412)
+![container](https://github.com/user-attachments/assets/2e3bce39-74f9-400f-a01c-95a9008adf4d)
+![storageaccount](https://github.com/user-attachments/assets/f044dc06-fcf7-4ba4-9a6c-4f3def3c2d6f)
+![Statefile](https://github.com/user-attachments/assets/f9db49f9-03b9-48af-a086-f24f63851401)
+![Resourcegroup](https://github.com/user-attachments/assets/b32dfd26-567c-4b49-946c-a1f779114be1)
+![webapp](https://github.com/user-attachments/assets/e6b4c1f3-0ab9-4afc-8a81-7444450326d4)
+![Pipeline](https://github.com/user-attachments/assets/00aaf978-6103-4335-8f5d-cdc20620fdf0)
+![Output](https://github.com/user-attachments/assets/0f1b5a79-4c87-4d13-a36d-4f657fba1c4a)
